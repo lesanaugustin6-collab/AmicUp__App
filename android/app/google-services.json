@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757149925404",
+    "project_id": "amicupapp-33722",
+    "storage_bucket": "amicupapp-33722.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757149925404:android:7aabb15e68c85037e29fd9",
+        "android_client_info": {
+          "package_name": "amicup.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO-6bDHFfR-Iz-VVEQhd6QCnYzG-14jy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
